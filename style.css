@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 .you{
     color: blueviolet;
@@ -24,4 +25,22 @@ section{
     color: white;
     border-radius: 5px;
     font-weight: bold;
+}
+.jhalmuri{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 150px;
+}
+.help2{
+    text-decoration: none;
+    padding: 8px 30px;
+    background-image: linear-gradient(white,purple);
+    color: black;
+    border-radius: 5px;
+    font-weight: 900; 
+}
+.chanachur{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
